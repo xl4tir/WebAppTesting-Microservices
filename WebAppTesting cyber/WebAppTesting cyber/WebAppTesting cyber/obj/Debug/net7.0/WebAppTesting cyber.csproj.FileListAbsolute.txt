@@ -1,0 +1,88 @@
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/appsettings.Development.json
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/appsettings.json
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/WebAppTesting cyber
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/WebAppTesting cyber.deps.json
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/WebAppTesting cyber.runtimeconfig.json
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/WebAppTesting cyber.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/WebAppTesting cyber.pdb
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/AutoMapper.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Azure.Core.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Azure.Identity.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Humanizer.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/System.CodeDom.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/obj/Debug/net7.0/WebAppTesting cyber.csproj.AssemblyReference.cache
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/obj/Debug/net7.0/WebAppTesting cyber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/obj/Debug/net7.0/WebAppTesting cyber.AssemblyInfoInputs.cache
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/obj/Debug/net7.0/WebAppTesting cyber.AssemblyInfo.cs
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/obj/Debug/net7.0/WebAppTesting cyber.csproj.CoreCompileInputs.cache
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/obj/Debug/net7.0/WebAppTesting cyber.MvcApplicationPartsAssemblyInfo.cs
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/obj/Debug/net7.0/WebAppTesting cyber.MvcApplicationPartsAssemblyInfo.cache
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/obj/Debug/net7.0/staticwebassets/msbuild.WebAppTesting cyber.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/obj/Debug/net7.0/staticwebassets/msbuild.build.WebAppTesting cyber.props
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.WebAppTesting cyber.props
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.WebAppTesting cyber.props
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/obj/Debug/net7.0/staticwebassets.build.json
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/obj/Debug/net7.0/staticwebassets.development.json
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/obj/Debug/net7.0/scopedcss/bundle/WebAppTesting cyber.styles.css
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/obj/Debug/net7.0/WebAppTesting cyber.csproj.CopyComplete
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/obj/Debug/net7.0/WebAppTesting cyber.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/obj/Debug/net7.0/refint/WebAppTesting cyber.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/obj/Debug/net7.0/WebAppTesting cyber.pdb
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/obj/Debug/net7.0/WebAppTesting cyber.genruntimeconfig.cache
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/obj/Debug/net7.0/ref/WebAppTesting cyber.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/appsettings.Production.json
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Google.Protobuf.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Grpc.AspNetCore.Server.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Grpc.AspNetCore.Server.ClientFactory.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Grpc.Core.Api.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Grpc.Net.Client.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Grpc.Net.ClientFactory.dll
+/Users/xl4tir/RiderProjects/WebAppTesting cyber/WebAppTesting cyber/bin/Debug/net7.0/Grpc.Net.Common.dll

@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option csharp_namespace = "WebAppTesting_cyber";
+
+service GrpcTesting {
+    rpc GetAllTesting (GetAllRequest) returns (TestingResponse);
+}
+
+message GetAllRequest {}
+
+message GrpcTestingModel{
+    int32 testingId = 1;
+    string name = 2;
+
+}
+
+message TestingResponse {
+    repeated GrpcTestingModel testing = 1;
+}

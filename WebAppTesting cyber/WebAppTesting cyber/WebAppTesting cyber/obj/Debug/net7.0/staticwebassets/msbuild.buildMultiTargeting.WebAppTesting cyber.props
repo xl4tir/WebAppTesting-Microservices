@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/WebAppTesting cyber.props" />
+</Project>

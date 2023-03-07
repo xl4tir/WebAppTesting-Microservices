@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppTesting cyber", "WebAppTesting cyber\WebAppTesting cyber.csproj", "{18010B4B-1299-4459-8641-11989BFF1CE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingCompleteService", "TestingCompleteService\TestingCompleteService.csproj", "{05D27D61-28C2-45A0-9A88-01BCA1601FC1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "K8S", "K8S", "{090A704B-4871-4BF6-BCD8-D8EF337F3DE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18010B4B-1299-4459-8641-11989BFF1CE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18010B4B-1299-4459-8641-11989BFF1CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18010B4B-1299-4459-8641-11989BFF1CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18010B4B-1299-4459-8641-11989BFF1CE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05D27D61-28C2-45A0-9A88-01BCA1601FC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D27D61-28C2-45A0-9A88-01BCA1601FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D27D61-28C2-45A0-9A88-01BCA1601FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D27D61-28C2-45A0-9A88-01BCA1601FC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

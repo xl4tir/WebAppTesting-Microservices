@@ -1,0 +1,35 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: testing-depl
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: webapptesting-cyber
+  template:
+    metadata:
+      labels:
+        app: webapptesting-cyber
+    spec:
+      containers:
+        - name: webapptesting-cyber
+          image: xl4tir/webapptesting-cyber:latest
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: testing-clusterip-srv
+spec:
+  type: ClusterIP
+  selector:
+    app: webapptesting-cyber
+  ports:
+  - name: webapptesting-cyber
+    protocol: TCP
+    port: 80
+    targetPort: 80
+  - name: plafromgrpc
+    protocol: TCP
+    port: 666
+    targetPort: 666
